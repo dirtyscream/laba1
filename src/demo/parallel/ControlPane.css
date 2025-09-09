@@ -44,7 +44,7 @@
 }
 
 .progress-indicator {
-    -fx-progress-color: red;    
+    -fx-progress-color: orange;    
 }
 
 .progress-indicator .percentage {
@@ -71,11 +71,11 @@
 }
 
 #open-close-toggle-button:hover {
-    -fx-background-color: lightgray;
+    -fx-background-color: darkorange;
 }
 
 .time .bar {
-    -fx-background-color: linear-gradient(from 0em 0em to 8em 0em, green 30%, yellow 60%, red);
+    -fx-background-color: linear-gradient(from 0em 0em to 8em 0em, black 0%, orange 60%, darkorange);
     -fx-background-radius: 0;
 }
 
